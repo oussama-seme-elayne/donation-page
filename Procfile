@@ -1,1 +1,0 @@
-web: gunicorn buydenniscoffee.wsgi --log-file -
